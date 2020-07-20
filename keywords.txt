@@ -4,7 +4,7 @@
 # Class
 ######################################################################
 
-SparkFun_MPR	KEYWORD1
+SparkFun_MicroPressure	KEYWORD1
 
 ######################################################################
 # Methods and Functions
