@@ -1,4 +1,4 @@
-SparkFun MPR Arduino Library
+SparkFun MicroPressure Arduino Library
 ========================================
 
 <img src="https://cdn.sparkfun.com/assets/parts/1/5/3/4/0/16476-SparkFun_Qwiic_MicroPressure_Sensor-01.jpg" alt="SparkFun Qwiic MicroPressure Sensor Library" style="max-width:50%"/>
