@@ -14,7 +14,7 @@ Repository Contents
 * **README.md** - This file!
 * **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE.
 * **library.properties** - General library properties for the Arduino package manager.
-* **/examples** - Example sketche for the library (.ino). Run this from the Arduino IDE.
+* **/examples** - Example sketches for the library (.ino). Run this from the Arduino IDE.
 * **/src** - Source files for the library (.cpp, .h).
 
 Documentation
