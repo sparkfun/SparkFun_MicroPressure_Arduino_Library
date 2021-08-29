@@ -79,9 +79,9 @@ uint8_t SparkFun_MicroPressure::readStatus(void)
 float SparkFun_MicroPressure::readPressure(Pressure_Units units)
 {
   _i2cPort->beginTransmission(_address);
-  _i2cPort->write(0xAA);
-  _i2cPort->write(0x00);
-  _i2cPort->write(0x00);
+  _i2cPort->write((uint8_t)0xAA);
+  _i2cPort->write((uint8_t)0x00);
+  _i2cPort->write((uint8_t)0x00);
   _i2cPort->endTransmission();
   
   // Wait for new pressure reading available
